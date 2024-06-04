@@ -56,8 +56,8 @@ Technologies: React.js, Redux, React Router, HTML5, CSS3, JavaScript
 ---
 
 #### 📫 How to Reach Me
-- LinkedIn: [Arun Govindhasamy](https://www.linkedin.com/in/arungovindhasamy/)
-- Email: arun.govindhasamy@example.com
+- LinkedIn: ([Arun Govindhasamy](https://www.linkedin.com/in/arun-g-8422a3240/))
+- Email: arungwork63@gmail.com
 
 ---
 
