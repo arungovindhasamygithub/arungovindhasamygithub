@@ -4,7 +4,7 @@
 - 👀 I’m interested in developing dynamic and user-friendly web applications that provide seamless user experiences.
 - 🌱 I’m currently learning advanced React patterns, Redux Toolkit, and GraphQL to enhance my full-stack development skills.
 - 💞️ I’m looking to collaborate on innovative projects involving React, Redux, and modern web development technologies. Open to both front-end and full-stack opportunities.
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/arungovindhasamy/) or email me at arun.govindhasamy@example.com.
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/arun-g-8422a3240/) or email me at arungwork63@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding, I love exploring new fashion trends and integrating them into web designs. I'm also an avid traveler who enjoys capturing landscapes through photography.
 
@@ -22,7 +22,7 @@
 
 #### 📚 Key Projects
 
-**[ARUN & Shoes](https://github.com/arungovindhasamygithub/arun-and-shoes)**
+**[ARUN](https://github.com/arungovindhasamygithub/arun-and-shoes)**
 A sophisticated eCommerce platform offering a diverse range of clothing and footwear, built to provide an exceptional shopping experience.
 
 Key Features:
